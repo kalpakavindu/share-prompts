@@ -2,7 +2,7 @@
 
 Next Js startup project tutorial.
 
-## Screen Shots
+### Screen Shots
 
 <img src='readme/home.png' alt='home page' />
 
